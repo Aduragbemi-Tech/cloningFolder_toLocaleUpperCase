@@ -1,0 +1,3 @@
+const city = "istanbul";
+
+console.log(city.toLocaleUpperCase("en-US"))
